@@ -1,0 +1,25 @@
+{
+  "name": "@cairnscale/uk-vat-cis-preflight",
+  "version": "1.0.0",
+  "description": "Zero-dependency integer-pence UK VAT Act 1994 s.55A Domestic Reverse Charge and CIS purchase ledger pre-flight validator.",
+  "type": "module",
+  "main": "./index.mjs",
+  "bin": {
+    "uk-vat-cis-preflight": "./index.mjs"
+  },
+  "scripts": {
+    "test": "node --test test.mjs"
+  },
+  "keywords": [
+    "uk-vat",
+    "cis",
+    "domestic-reverse-charge",
+    "s55a",
+    "hmrc",
+    "xero",
+    "accounting"
+  ],
+  "homepage": "https://cairnscale.uk/forensic-vat/",
+  "author": "cairnscale <hello@cairnscale.uk>",
+  "license": "MIT"
+}
