@@ -1,7 +1,7 @@
 {
   "name": "@cairnscale/uk-vat-cis-preflight",
   "version": "1.0.0",
-  "description": "Zero-dependency integer-pence UK VAT Act 1994 s.55A Domestic Reverse Charge and CIS purchase ledger pre-flight validator.",
+  "description": "Zero-dependency exact pence UK VAT Act 1994 s.55A Domestic Reverse Charge and CIS purchase ledger validator.",
   "type": "module",
   "main": "./index.mjs",
   "bin": {
@@ -20,6 +20,13 @@
     "accounting"
   ],
   "homepage": "https://cairnscale.uk/forensic-vat/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cairnscale/uk-vat-cis-preflight.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cairnscale/uk-vat-cis-preflight/issues"
+  },
   "author": "cairnscale <hello@cairnscale.uk>",
   "license": "MIT"
 }

@@ -1,9 +1,9 @@
 # @cairnscale/uk-vat-cis-preflight
 
-Zero-dependency integer-pence (`BigInt`) validator for **UK VAT Act 1994 s.55A Domestic Reverse Charge (DRC)**, Construction Industry Scheme (**CIS**) labour/materials splits, horizontal crossfooting, and duplicate purchase ledger detection.
+Exact pence (`BigInt`) helper for **UK VAT Act 1994 s.55A Domestic Reverse Charge (DRC)**, Construction Industry Scheme (**CIS**) labour and materials splits, crossfoot checks, and duplicate purchase ledger detection.
 
-Interactive zero-upload browser edition: [cairnscale.uk/forensic-vat/](https://cairnscale.uk/forensic-vat/)  
-Full rulebook & HMRC box guide: [UK CIS & VAT s.55A Reverse Charge Pre-Flight Guide](https://cairnscale.uk/guides/uk-cis-vat-reverse-charge-preflight/)
+Interactive local browser tool: [cairnscale.uk/forensic-vat/](https://cairnscale.uk/forensic-vat/)  
+Rulebook & HMRC box guide: [UK CIS & VAT s.55A Reverse Charge Guide](https://cairnscale.uk/guides/uk-cis-vat-reverse-charge-preflight/)
 
 ## Usage
 
